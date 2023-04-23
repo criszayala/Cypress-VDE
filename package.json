@@ -12,5 +12,8 @@
     "vde"
   ],
   "author": "Cristian Ayala",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
 }
