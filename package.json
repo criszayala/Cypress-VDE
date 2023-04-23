@@ -1,0 +1,16 @@
+{
+  "name": "cypressvde",
+  "version": "1.0.0",
+  "description": "e2e testing for 'ticket sale' project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "vde"
+  ],
+  "author": "Cristian Ayala",
+  "license": "ISC"
+}
